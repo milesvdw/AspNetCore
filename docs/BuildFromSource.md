@@ -20,6 +20,7 @@ Building ASP.NET Core on Windows requires:
         ```
 * Git. <https://git-scm.org>
 * (Optional) some optional components, like the SignalR Java client, may require
+    * .NET Core Preview 3.0
     * NodeJS. LTS version of 10.14.2 or newer recommended <https://nodejs.org>
     * Java Development Kit 10 or newer. Either:
         * OpenJDK <http://jdk.java.net/10/>
